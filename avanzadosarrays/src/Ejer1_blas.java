@@ -18,6 +18,7 @@ public class Ejer1_blas {
         }
         System.out.println("La suma de los 10 números introducidos es igual a: " + suma);
         System.out.printf("La suma de los 10 números introducidos es igual a %d.", suma);
+        System.out.println();
         sc.close();
     }
 }
